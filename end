@@ -1,0 +1,53 @@
+[33mcommit 7014630a4baf7a889a9ada514807004d1cef952f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: FreddyGP <freddy9.40g@gmail.com>
+Date:   Sun Nov 12 15:21:43 2017 -0500
+
+    agregando 'defer'en el script del head
+
+[33mcommit bde424f6aeb8627cd34ede63e63187f9f23b8e65[m
+Author: FreddyGP <freddy9.40g@gmail.com>
+Date:   Sun Nov 12 15:15:54 2017 -0500
+
+    borra archivo foo
+
+[33mcommit a522955a45f9b3f65f0962ce775fca95b09f0a3d[m
+Author: FreddyGP <freddy9.40g@gmail.com>
+Date:   Sun Nov 12 15:13:59 2017 -0500
+
+    añade archivo foo
+
+[33mcommit 2d01c829d6362724de543ccacc146ddbb4400efb[m
+Author: FreddyGP <freddy9.40g@gmail.com>
+Date:   Sun Nov 12 15:04:29 2017 -0500
+
+    añade gitignore al proyecto
+
+[33mcommit 2fcdd46a90bc74a4bed833585fecd066432d7fb5[m
+Author: FreddyGP <freddy9.40g@gmail.com>
+Date:   Sun Nov 12 14:47:50 2017 -0500
+
+    añade archivos externos en html
+
+[33mcommit 8017c8ded2ab47bdd812fb29bc03f782ae1f55c2[m
+Author: FreddyGP <freddy9.40g@gmail.com>
+Date:   Sun Nov 12 14:34:53 2017 -0500
+
+    completa aplicacion con js y css
+
+[33mcommit e2c22833f6d59d96337c86e9fd3d96a8e7b2a70b[m
+Author: FreddyGP <freddy9.40g@gmail.com>
+Date:   Sun Nov 12 14:29:01 2017 -0500
+
+    añade archivo main.js
+
+[33mcommit eba7e5d9996e128b2cacb53eeef2ce93b12980db[m
+Author: FreddyGP <freddy9.40g@gmail.com>
+Date:   Sun Nov 12 14:27:17 2017 -0500
+
+    añade archivo styles.css
+
+[33mcommit 33340760a2487e8ff49319f223acba9a1fad12e2[m
+Author: FreddyGP <freddy9.40g@gmail.com>
+Date:   Sun Nov 12 14:13:58 2017 -0500
+
+    añade el archivo index.html
